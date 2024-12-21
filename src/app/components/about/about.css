@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Tilt+Neon&display=swap');
-
 .about {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 80px;
-    padding: 6vh 0;
+    padding: 6vh 10vw;
     color: azure;
 }
 
